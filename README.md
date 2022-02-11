@@ -1,7 +1,8 @@
 # Aykut Kence Evrim Konferansı
-_________________
 
 [![TişörtKenarBEYAZINÜSTÜNE (1)](https://user-images.githubusercontent.com/94791488/153595235-73873a8f-8eea-4e72-910c-db1a93fab7d7.png)](https://www.aykutkenceevrimkonferansi.org/)
+
+_________________
 
 ### :tr:
 
@@ -11,9 +12,7 @@ Aykut Kence Evrim Konferansı’nın amacı evrimi, evrim teorisi kavramlarını
 
 Aykut Kence Evrim Konferansı kâr amacı gütmemekle birlikte hiçbir siyasi ideolojiyi ve şahsi inancı hedef göstermeden ilerlemeyi amaçlamaktadır.
 
-Konferans, ODTÜ Kültür ve Kongre Merkezi’nde Kemal Kurdaş Salonu ve A Salonu olmak üzere iki ayrı salonda eş zamanlı sunumlarla gerçekleşir. AKEK, iki salonda toplam 1250 katılımcıya ulaşmıştır. Kemal Kurdaş Salonu’nda sunumlar genel dinleyici kitlesine hitap etmekte olup yabancı dildeki sunumlar çeviri seçeneği ile gerçekleştirilirken A Salonu’nda konuşmacılar İngilizce sunumları ile son dönemde çalıştıkları konular ve projeler üstünde dururlar.
-
-_________________
+Konferans, ODTÜ Kültür ve Kongre Merkezi’nde Kemal Kurdaş Salonu ve A Salonu olmak üzere iki ayrı salonda eş zamanlı sunumlarla gerçekleşir. AKEK, iki salonda toplam 1250 katılımcıya ulaşmıştır. Kemal Kurdaş Salonu’nda sunumlar genel dinleyici kitlesine hitap etmekte olup yabancı dildeki sunumlar çeviri seçeneği ile gerçekleştirilirken A Salonu’nda konuşmacılar İngilizce sunumları ile son dönemde çalıştıkları konular ve projeler üstünde dururlar.  
 
 ### :uk:
 
@@ -24,6 +23,8 @@ The aim of the Aykut Kence Evolution Conference is to explain evolution, the con
 Although the Aykut Kence Evolution Conference is non-profit, it aims to progress without targeting any political ideology or personal belief.
 
 The conference takes place with simultaneous presentations in two separate halls, Kemal Kurdaş Hall and A Hall, at METU Culture and Congress Center. AKEK reached a total of 1250 participants in two halls. In the Kemal Kurdaş Hall, the presentations appeal to the general audience and the presentations in foreign languages ​​are made with the translation option, while the speakers in the A Hall focus on the topics and projects they have been working on recently with their English presentations.
+
+_________________
 
 AKEK: [Aykut Kence Evrim Konferansı](https://www.aykutkenceevrimkonferansi.org/)  
 Facebook: [ODTÜ Aykut Kence Evrim Konferansı](https://www.facebook.com/odtuakek)  
